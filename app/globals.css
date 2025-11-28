@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+:root {
+    --gradient-special: linear-gradient(90deg, #7e22ce 0%, #e11d48 100%);
+}
